@@ -2,7 +2,7 @@ package java_basics;
 
 import java.util.Arrays;
 
-public class Data_types {
+public class DataTypes {
 	
 	public static void main(String[] args) {
 		
@@ -46,3 +46,4 @@ public class Data_types {
 	}
 
 }
+
