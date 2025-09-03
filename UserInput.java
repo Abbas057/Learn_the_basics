@@ -2,7 +2,7 @@ package java_basics;
 
 import java.util.Scanner;
 
-public class User_input {
+public class UserInput {
 	
 	// a2 + b2 + 2ab
 
@@ -31,3 +31,4 @@ public class User_input {
 	}
 
 }
+
