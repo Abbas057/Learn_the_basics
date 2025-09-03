@@ -2,7 +2,7 @@ package java_basics;
 
 import java.util.Scanner;
 
-public class Conditional_And_Loops_Statement {
+public class ConditionalAndLoopsStatement {
 
 	/**
 	 * @param args
@@ -162,3 +162,4 @@ public class Conditional_And_Loops_Statement {
 	
 
 }
+
