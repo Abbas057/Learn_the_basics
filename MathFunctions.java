@@ -1,7 +1,7 @@
 package java_basics;
 
 
-public class Math_functions {
+public class MathFunctions {
 
 	public static void main(String[] args) {
 		
@@ -68,3 +68,4 @@ public class Math_functions {
 	}
 
 }
+
