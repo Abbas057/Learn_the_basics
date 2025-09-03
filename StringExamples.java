@@ -1,6 +1,6 @@
 package java_basics;
 
-public class String_Examples {
+public class StringExamples {
     public static void main(String[] args) {
         String str = "  Hello Java World  ";
         String str2 = "hello java world";
@@ -69,3 +69,4 @@ public class String_Examples {
         System.out.println("StringBuffer append: " + sbf);
     }
 }
+
