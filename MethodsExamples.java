@@ -3,7 +3,7 @@ package java_basics;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Methods_examples {
+public class MethodsExamples {
 	
 	// Return type without argument
 	
@@ -79,3 +79,4 @@ public class Methods_examples {
 	}
 
 }
+
