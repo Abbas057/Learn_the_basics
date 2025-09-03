@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import java.util.Arrays;
 
-public class Arrays_example {
+public class ArraysExample {
 
 	// 1. print an array
 	static void printAnArray() {
@@ -145,3 +145,4 @@ public class Arrays_example {
 	}
 
 }
+
